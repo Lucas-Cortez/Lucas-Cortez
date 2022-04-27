@@ -54,8 +54,6 @@ A Full Stack developer who still wants to learn a lot
                 />
             </a> 
         </td>
-    </tr>
-    <tr>
         <td>
             <a href="https://www.figma.com/" target="_blank"> 
                 <img 
@@ -148,8 +146,6 @@ A Full Stack developer who still wants to learn a lot
                 />
             </a> 
         </td>
-    </tr>
-    <tr>
         <td>
             <a href="https://www.python.org" target="_blank"> 
                 <img 
