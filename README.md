@@ -1,11 +1,11 @@
-## Hi 👋, I'm Lucas Cortez
+# Hi 👋, I'm Lucas Cortez
 
 A Full Stack developer who still wants to learn a lot
 
 - 🏢 Working at Tebe Sensors
 - 🏫 Studying Information Systems
 
-### Languages and Tools:
+## Languages and Tools:
 
 <a href="https://aws.amazon.com" target="_blank"> 
     <img 
@@ -148,10 +148,8 @@ A Full Stack developer who still wants to learn a lot
     />
 </a>
 
-### Contact:
+## Contact:
 
 <a href="https://www.linkedin.com/in/lucas-cortez-sanches-19810a1a8/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
