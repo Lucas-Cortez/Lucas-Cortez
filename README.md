@@ -9,11 +9,9 @@ A Full Stack developer who still wants to learn a lot
 
 <table>
     <tr>
-        <td colspan="10" align="center">
+        <td rowspan="4" align="center">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Cortez&layout=compact&theme=dracula" alt="Lucas-Cortez" />
         </td>
-    </tr>
-    <tr>
         <td>
             <a href="https://aws.amazon.com" target="_blank"> 
                 <img 
@@ -59,6 +57,8 @@ A Full Stack developer who still wants to learn a lot
                 />
             </a> 
         </td>
+    </tr>
+    <tr>
         <td>
             <a href="https://www.figma.com/" target="_blank"> 
                 <img 
@@ -151,6 +151,8 @@ A Full Stack developer who still wants to learn a lot
                 />
             </a> 
         </td>
+    </tr>
+    <tr>
         <td>
             <a href="https://www.python.org" target="_blank"> 
                 <img 
