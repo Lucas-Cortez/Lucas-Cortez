@@ -2,7 +2,7 @@
 
 A Full Stack developer who still wants to learn a lot
 
-- 🏢 Working at Tebe Sensors
+- 🏢 Working at WA Project
 - 🏫 Studying Information Systems
 
 ## Languages and Tools:
