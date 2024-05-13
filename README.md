@@ -2,8 +2,7 @@
 
 A Full Stack developer who still wants to learn a lot
 
-- 🏢 Working at WA Project
-- 🏫 Studying Information Systems
+- 🧑🏻‍🎓 Graduate in Information Systems
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Cortez&layout=compact&theme=dracula" alt="Lucas-Cortez" />
 
